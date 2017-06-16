@@ -1,0 +1,6 @@
+*.pyc
+.vscode
+.DS_Store
+.coverage
+.cache
+__pycache__
